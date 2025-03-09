@@ -1,2 +1,2 @@
 # URL-shortner-original
-A URL shortnerf application using express js  --> seeing YouTube video
+A URL shortner application using express js  --> seeing YouTube video
